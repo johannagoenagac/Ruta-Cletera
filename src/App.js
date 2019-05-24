@@ -200,10 +200,8 @@ class App extends Component {
     modal:false,
     btnguardar:false,
     finalize:false,
-
-     btnRouteSave: false,
-     screen:false,
-    btnRouteSave: false,
+    btnRouteSave:false,
+    screen:false,
     btnShare:false,
 
     });

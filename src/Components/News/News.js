@@ -40,6 +40,36 @@ class News extends Component{
 
                 </div>
 
+                <div id="recomendation3">
+
+                <div>
+                    <img className="imgBike" src="https://i.ibb.co/6X4SMGP/Captura-de-pantalla-2019-05-22-a-las-13-44-08.png" alt=""/>
+                </div>
+
+                <div className="footerImg">
+                    <p className="textLabel">Ruta turistica</p>
+                    <img id="iconTuristic" className="iconImg" src="https://i.ibb.co/GC6zqgG/cycling-4-1.png" alt=""/>
+                    <img id="iconParkin" className="iconImg" src="https://i.ibb.co/98QLg0Z/parking-1.png" alt=""/>
+                    
+                </div>
+
+                </div>
+
+                <div id="recomendation4">
+
+                <div>
+                    <img className="imgBike" src="https://i.ibb.co/ygzZQNs/Captura-de-pantalla-2019-05-22-a-las-13-40-38.png" alt=""/>
+                </div>
+
+                <div className="footerImg">
+                    <p className="textLabel">Ruta turistica</p>
+                    <img id="iconTuristic" className="iconImg" src="https://i.ibb.co/GC6zqgG/cycling-4-1.png" alt=""/>
+                    <img id="iconParkin" className="iconImg" src="https://i.ibb.co/98QLg0Z/parking-1.png" alt=""/>
+                    
+                </div>
+
+                </div>
+
                 </div>
 
            

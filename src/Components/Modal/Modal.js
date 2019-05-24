@@ -9,7 +9,7 @@ class Modal extends Component{
              <div className="container1">
               <div className="modal2">
 
-               
+              
                 <div>
                  <button onClick={this.props.btnguardar} className="btnGuardar">Guardar Ruta</button>
                 </div>

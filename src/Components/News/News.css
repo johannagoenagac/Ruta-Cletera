@@ -1,4 +1,5 @@
-#recomendation, #recomendation2{
+#recomendation, #recomendation2, #recomendation3, #recomendation4{
+    
     width: 90%;
     height: 200px;
     border: rgb(150, 148, 148) 0.5px solid;
@@ -9,7 +10,7 @@
     border-top-right-radius: 10px;
 }
 
-#recomendation2{
+#recomendation2, #recomendation3, #recomendation4{
     margin-top: 20px;
 }
 
